@@ -32,14 +32,14 @@ The analysis concluded that the variant B had a statistically significant improv
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/your-username/ab-testing-analysis.git  
-    cd ab-testing-analysis
+    git clone https://github.com/Tanmay-Hadke/A-B-Testing.git 
+    cd A-B-Testing
     ```
 
 2. Open the notebook:
 
     ```bash
-    jupyter notebook A_B_Testing.ipynb
+    jupyter notebook A/B Testing.ipynb
     ```
 
 ## 📄 License
